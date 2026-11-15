@@ -1,3 +1,3 @@
-TECHBRO - Frontend 
-AIG - Backend
-XPLORETEK - Security 
+TECHBRO - Frontend Developer
+AIG - Backend Developer
+XPLORETEK - Security Developer 
